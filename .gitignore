@@ -1,0 +1,11 @@
+#Ignore all csv
+*.csv
+
+#ignore all .ras
+*.ras
+
+#ignore pngs
+*.png
+
+#ignore Jupyter checkpoints
+**/.ipynb_checkpoints
